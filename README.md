@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Mahbub
+## Hi there 👋, My name is Mahbub
 
-#### Full Stack Developer | WordPress | PHP | React | JavaScipt
+### Full Stack Developer | WordPress | PHP | React | JavaScipt
 
 ![Full Stack Developer | WordPress | PHP | React | JavaScipt](https://media.licdn.com/dms/image/v2/C4D16AQHjLmD1unINxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652694935933?e=1729123200&v=beta&t=YVGEyAuY-lDarrWpmziqEOEfpM9c_vbTe7C_1dTZeug)
 
@@ -21,15 +21,14 @@ I am a highly experienced web developer with a solid background in creating Word
 </ul>
 
 <h4>Portfolios</h4>
-https://codecanyon.net/user/xenioushk
-https://themeforest.net/user/xenioushk
-https://profiles.wordpress.org/xenioushk/#content-plugins
-https://github.com/xenioushk/
-https://www.upwork.com/freelancers/~01dadecdda60187e89
 
-Thank You!
+- https://codecanyon.net/user/xenioushk
+- https://themeforest.net/user/xenioushk
+- https://profiles.wordpress.org/xenioushk/#content-plugins
+- https://github.com/xenioushk/
+- https://www.upwork.com/freelancers/~01dadecdda60187e89
 
-Skills: WordPress / PHP / REACT / JS / HTML / CSS
+<h4>Current Status</h4>
 
 - 🔭 I’m currently working on Elementor Block Development
 - 🌱 I’m currently learning Next.js
@@ -37,14 +36,16 @@ Skills: WordPress / PHP / REACT / JS / HTML / CSS
 - 💬 Ask me about WordPress, PHP, Web development
 - 📫 How to reach me: https://bluewindlab.net/contact/
 
+<h4>Connect With Me</h4>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xenioushk) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hkhan-cse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hkhan.cse) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bluewindlab/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bluewindlab) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/bluewindlab) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bluewindlab.net)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenioushk)](https://github.com/anuraghazra/github-readme-stats)
+<h4>A Few Stats</h4>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenioushk&show_icons=true&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/xenioushk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenioushk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=xenioushk)
+
+![GitHub metrics](https://metrics.lecoq.io/xenioushk)
