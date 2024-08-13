@@ -2,9 +2,9 @@
 
 ### Full Stack Developer | WordPress | PHP | React | JavaScipt
 
-![Full Stack Developer | WordPress | PHP | React | JavaScipt](https://media.licdn.com/dms/image/v2/C4D16AQHjLmD1unINxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652694935933?e=1729123200&v=beta&t=YVGEyAuY-lDarrWpmziqEOEfpM9c_vbTe7C_1dTZeug)
+![Full Stack Developer | WordPress | PHP | React | JavaScipt](https://s3.envato.com/files/124139210/codecanyon-banner.jpg)
 
-I am a highly experienced web developer with a solid background in creating WordPress themes and plugins, supported by more than ten years of professional practice.
+I am a highly experienced web developer with a solid background in creating <strong>WordPress themes and plugins</strong>, supported by more than ten years of professional practice.
 
 <p>My accomplishments include skillfully guiding teams, thoroughly analyzing customer requirements, and consistently welcoming new opportunities. Throughout my career journey, I have refined my knowledge of WordPress, remaining at the cutting edge of the dynamic industry landscape while consistently adopting the latest trends and technologies.</p>
 
