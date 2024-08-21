@@ -2,8 +2,6 @@
 
 ### Full Stack Developer | WordPress | PHP | React | JavaScipt
 
-![Full Stack Developer | WordPress | PHP | React | JavaScipt](https://s3.envato.com/files/124139210/codecanyon-banner.jpg)
-
 I am a highly experienced web developer with a solid background in creating <strong>WordPress themes and plugins</strong>, supported by more than ten years of professional practice.
 
 <p>My accomplishments include skillfully guiding teams, thoroughly analyzing customer requirements, and consistently welcoming new opportunities. Throughout my career journey, I have refined my knowledge of WordPress, remaining at the cutting edge of the dynamic industry landscape while consistently adopting the latest trends and technologies.</p>
@@ -49,6 +47,20 @@ I am a highly experienced web developer with a solid background in creating <str
 ### [Dynamism - Political & Activism WP Theme](https://1.envato.market/dynamism-wp)
 
 ![Dynamism - Political & Activism WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/dynamism.jpg)
+
+## WordPress Plugins
+
+### [BWL Advanced FAQ Manager](https://1.envato.market/baf-wp)
+
+![BWL Advanced FAQ Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/baf.jpg)
+
+### [BWL Pro Voting Manager](https://1.envato.market/bpvm-wp)
+
+![BWL Pro Voting Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bpvm.jpg)
+
+### [BWL Knowledge Base Manager](https://1.envato.market/bkbm-wp)
+
+![BWL Knowledge Base Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bkbm.jpg)
 
 ### Languages and Technologies
 
