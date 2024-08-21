@@ -8,15 +8,15 @@ I am a highly experienced web developer with a solid background in creating <str
 
 <p>My accomplishments include skillfully guiding teams, thoroughly analyzing customer requirements, and consistently welcoming new opportunities. Throughout my career journey, I have refined my knowledge of WordPress, remaining at the cutting edge of the dynamic industry landscape while consistently adopting the latest trends and technologies.</p>
 
-### WordPress Themes
+## WordPress Themes
 
-#### Knowledgedesk - Knowledge Base WordPress Theme
+### [Knowledgedesk - Knowledge Base WordPress Theme](https://1.envato.market/kdesk-wp)
 
-[Demo](https://1.envato.market/kdesk-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/kdesk/index.html)
+![Knowledgedesk - Knowledge Base WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/kdesk.jpg)
 
-#### Senior Care
+### [Senior Care - Senior Citizen WordPress Theme](https://1.envato.market/srcare-wp)
 
-[Demo](https://1.envato.market/srcare-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/srcare/index.html)
+![Senior Care - Senior Citizen WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/srcare.jpg)
 
 #### Reddrop Buddies
 
