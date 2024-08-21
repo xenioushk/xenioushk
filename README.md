@@ -8,7 +8,49 @@ I am a highly experienced web developer with a solid background in creating <str
 
 <p>My accomplishments include skillfully guiding teams, thoroughly analyzing customer requirements, and consistently welcoming new opportunities. Throughout my career journey, I have refined my knowledge of WordPress, remaining at the cutting edge of the dynamic industry landscape while consistently adopting the latest trends and technologies.</p>
 
-<h4>Languages and Technologies:</h4>
+### WordPress Themes
+
+#### Knowledgedesk - Knowledge Base WordPress Theme
+
+[Demo](https://1.envato.market/kdesk-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/kdesk/index.html)
+
+#### Senior Care
+
+[Demo](https://1.envato.market/srcare-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/srcare/index.html)
+
+#### Reddrop Buddies
+
+[Demo](https://1.envato.market/rbuddies-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/reddrop_buddies/index.html)
+
+#### Sharai Khana
+
+[Demo](https://1.envato.market/skhana-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/sharai_khana/index.html)
+
+#### Appeal
+
+[Demo](https://1.envato.market/appeal-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/appeal/appeal_theme/index.html)
+
+#### Restore
+
+[Demo](https://1.envato.market/restore-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/restore/index.html)
+
+#### Wish
+
+[Demo](https://1.envato.market/wish-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/wish/index.html)
+
+#### Greenlife
+
+[Demo](https://1.envato.market/greenlife-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/greenlife/index.html)
+
+#### Petapalozza
+
+[Demo](https://1.envato.market/petapalozza-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/petapalozza/index.html)
+
+#### Dynamism
+
+[Demo](https://1.envato.market/dynamism-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/dynamism/index.html)
+
+### Languages and Technologies
 
 <ul>
 <li>HTML5, CSS3, SASS, LESS</li>
