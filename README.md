@@ -18,37 +18,37 @@ I am a highly experienced web developer with a solid background in creating <str
 
 ![Senior Care - Senior Citizen WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/srcare.jpg)
 
-#### Reddrop Buddies
+### [Reddrop Buddies - Blood Donation Campaign WordPress Theme](https://1.envato.market/rbuddies-wp)
 
-[Demo](https://1.envato.market/rbuddies-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/reddrop_buddies/index.html)
+![Reddrop Buddies - Blood Donation Campaign WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/reddrop_buddies.jpg)
 
-#### Sharai Khana
+### [Sharai Khana - Computer Service Center WordPress Theme](https://1.envato.market/skhana-wp)
 
-[Demo](https://1.envato.market/skhana-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/sharai_khana/index.html)
+![Sharai Khana - Computer Service Center WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/sharai_khana.jpg)
 
-#### Appeal
+### [Appeal - Fully Functional Petition Theme](https://1.envato.market/appeal-wp)
 
-[Demo](https://1.envato.market/appeal-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/appeal/appeal_theme/index.html)
+![Appeal - Fully Functional Petition Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/appeal.jpg)
 
-#### Restore
+### [Restore - Computer, Mobile & Digital Repair Service WordPress Theme](https://1.envato.market/restore-wp)
 
-[Demo](https://1.envato.market/restore-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/restore/index.html)
+![Restore - Computer, Mobile & Digital Repair Service WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/restore.jpg)
 
-#### Wish
+### [Wish - Charity WordPress Theme](https://1.envato.market/wish-wp)
 
-[Demo](https://1.envato.market/wish-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/wish/index.html)
+![Wish - Charity WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/wish.jpg)
 
-#### Greenlife
+### [Greenlife - Nature & Environmental WP Theme](https://1.envato.market/greenlife-wp)
 
-[Demo](https://1.envato.market/greenlife-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/greenlife/index.html)
+![Greenlife - Nature & Environmental WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/greenlife.jpg)
 
-#### Petapalozza
+### [Petapalozza - Pet Care Service WordPress Theme](https://1.envato.market/petapalozza-wp)
 
-[Demo](https://1.envato.market/petapalozza-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/petapalozza/index.html)
+![Petapalozza - Pet Care Service WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/petapalozza.jpg)
 
-#### Dynamism
+### [Dynamism - Political & Activism WP Theme](https://1.envato.market/dynamism-wp)
 
-[Demo](https://1.envato.market/dynamism-wp) || [Documentation](https://xenioushk.github.io/docs-wp-themes/dynamism/index.html)
+![Dynamism - Political & Activism WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/dynamism.jpg)
 
 ### Languages and Technologies
 
