@@ -10,57 +10,57 @@ I am a highly experienced web developer with a solid background in creating <str
 
 ### [Knowledgedesk - Knowledge Base WordPress Theme](https://1.envato.market/kdesk-wp)
 
-![Knowledgedesk - Knowledge Base WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/kdesk.jpg)
+[![Knowledgedesk - Knowledge Base WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/kdesk.jpg)](https://1.envato.market/kdesk-wp)
 
 ### [Senior Care - Senior Citizen WordPress Theme](https://1.envato.market/srcare-wp)
 
-![Senior Care - Senior Citizen WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/srcare.jpg)
+[![Senior Care - Senior Citizen WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/srcare.jpg)](https://1.envato.market/srcare-wp)
 
 ### [Reddrop Buddies - Blood Donation Campaign WordPress Theme](https://1.envato.market/rbuddies-wp)
 
-![Reddrop Buddies - Blood Donation Campaign WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/reddrop_buddies.jpg)
+[![Reddrop Buddies - Blood Donation Campaign WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/reddrop_buddies.jpg)](https://1.envato.market/rbuddies-wp)
 
 ### [Sharai Khana - Computer Service Center WordPress Theme](https://1.envato.market/skhana-wp)
 
-![Sharai Khana - Computer Service Center WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/sharai_khana.jpg)
+[![Sharai Khana - Computer Service Center WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/sharai_khana.jpg)](https://1.envato.market/skhana-wp)
 
 ### [Appeal - Fully Functional Petition Theme](https://1.envato.market/appeal-wp)
 
-![Appeal - Fully Functional Petition Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/appeal.jpg)
+[![Appeal - Fully Functional Petition Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/appeal.jpg)](https://1.envato.market/appeal-wp)
 
 ### [Restore - Computer, Mobile & Digital Repair Service WordPress Theme](https://1.envato.market/restore-wp)
 
-![Restore - Computer, Mobile & Digital Repair Service WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/restore.jpg)
+[![Restore - Computer, Mobile & Digital Repair Service WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/restore.jpg)](https://1.envato.market/restore-wp)
 
 ### [Wish - Charity WordPress Theme](https://1.envato.market/wish-wp)
 
-![Wish - Charity WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/wish.jpg)
+[![Wish - Charity WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/wish.jpg)](https://1.envato.market/wish-wp)
 
 ### [Greenlife - Nature & Environmental WP Theme](https://1.envato.market/greenlife-wp)
 
-![Greenlife - Nature & Environmental WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/greenlife.jpg)
+[![Greenlife - Nature & Environmental WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/greenlife.jpg)](https://1.envato.market/greenlife-wp)
 
 ### [Petapalozza - Pet Care Service WordPress Theme](https://1.envato.market/petapalozza-wp)
 
-![Petapalozza - Pet Care Service WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/petapalozza.jpg)
+[![Petapalozza - Pet Care Service WordPress Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/petapalozza.jpg)](https://1.envato.market/petapalozza-wp)
 
 ### [Dynamism - Political & Activism WP Theme](https://1.envato.market/dynamism-wp)
 
-![Dynamism - Political & Activism WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/dynamism.jpg)
+[![Dynamism - Political & Activism WP Theme](https://xenioushk.github.io/bwl-static-assets/previews/themes/dynamism.jpg)](https://1.envato.market/dynamism-wp)
 
 ## WordPress Plugins
 
 ### [BWL Advanced FAQ Manager](https://1.envato.market/baf-wp)
 
-![BWL Advanced FAQ Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/baf.jpg)
+[![BWL Advanced FAQ Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/baf.jpg)](https://1.envato.market/baf-wp)
 
 ### [BWL Pro Voting Manager](https://1.envato.market/bpvm-wp)
 
-![BWL Pro Voting Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bpvm.jpg)
+[![BWL Pro Voting Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bpvm.jpg)](https://1.envato.market/bpvm-wp)
 
 ### [BWL Knowledge Base Manager](https://1.envato.market/bkbm-wp)
 
-![BWL Knowledge Base Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bkbm.jpg)
+[![BWL Knowledge Base Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bkbm.jpg)](https://1.envato.market/bkbm-wp)
 
 ### Languages and Technologies
 
