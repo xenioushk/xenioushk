@@ -72,36 +72,33 @@ I am a highly experienced web developer with a solid background in creating <str
 [![Auto Repair - Maintenance and Mechanic Center HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/auto_repair_template.jpg)](https://1.envato.market/auto-repair-html)
 [![Banizoo - Business Service HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/banizoo.jpg)](https://1.envato.market/banizoo-html)
 [![Bicycle Fix - Bicycle Repair, Maintenance and Tune-Ups Shop HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/bicycle_fix_template.jpg)](https://1.envato.market/bicycle-fix-html5)
+[![Blood Donation - Activism & Campaign HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/blood_donation_template.jpg)](https://1.envato.market/blood-donation-html5)
 
 <!-- Second Row-->
 
-[![Blood Donation - Activism & Campaign HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/blood_donation_template.jpg)](https://1.envato.market/blood-donation-html5)
 [![Cobbler Master-Shoe Repair and Leather Accessories Service Center HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/cobbler_template.jpg)](https://1.envato.market/cobbler-master-html5)
 [![Dynamism Responsive Activism Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/dynamism.jpg)](https://1.envato.market/dynamism-html5)
 [![Ecosma Buddies - Environmental Campaign & Activism Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/ecosma_buddies.jpg)](https://1.envato.market/ecosma-buddies-html5)
 [![Fit Bone - Physiotherapy and Massage Therapy Center](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/fit_bone_template.jpg)](https://1.envato.market/fit-bone-html5)
 [![Fixer Buddies - Computer & Laptop Repair Center HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/fixer_buddies.jpg)](https://1.envato.market/fixer-buddies-html5)
+[![Generosity - Charity, Fundraising & Non-Profit HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/generosity_template.jpg)](https://1.envato.market/generosity-html5)
+[![Greenlife - Nature & Environmental Non-Profit HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/greenlife_template.jpg)](https://1.envato.market/greenlife-html5)
 
 <!-- Third Row-->
 
-[![Generosity - Charity, Fundraising & Non-Profit HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/generosity_template.jpg)](https://1.envato.market/generosity-html5)
-[![Greenlife - Nature & Environmental Non-Profit HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/greenlife_template.jpg)](https://1.envato.market/greenlife-html5)
 [![Knowledge Desk - Responsive Knowledgebase HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/kdesk_template.jpg)](https://1.envato.market/kdesk-html5)
 [![Mind Trainer - Psychology and Counseling Center HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/mind_trainer_template.jpg)](https://1.envato.market/mind-trainer-html5)
 [![Move Fast - Relocation and Moving Service HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/move_fast.jpg)](https://1.envato.market/move-fast-html5)
 [![Pakkapati - Flooring Service HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/pakkapati.jpg)](https://1.envato.market/pakkapati-html5)
-
-<!-- Forth Row-->
-
 [![Pet Care - Responsive HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/pet_care.jpg)](https://1.envato.market/pet-care-html5)
 [![Petmate - Animal Care Center HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/pet_mate_template.jpg)](https://1.envato.market/petmate-html5)
 [![Political Buddies - Election Campaign & Activism Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/political_buddies.jpg)](https://1.envato.market/political-buddies-html5)
+
+<!-- Forth Row-->
+
 [![Quala Coat - Law Firm & Lawyers Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/quala_coat.jpg)](https://1.envato.market/quala-coat-html5)
 [![Repair Geek - Laptop And Computer Fixing Service Center Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/repair_geek_template.jpg)](https://1.envato.market/repair-geek-html)
 [![Restore - Computer, Mobile & Digital Repair Shop Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/restore.jpg)](https://1.envato.market/restore-html)
-
-<!-- Fifth Row-->
-
 [![SmartFix - Computer Repair Center Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/smart_fix.jpg)](https://1.envato.market/smart-fix-html)
 [![Senior Care - Senior Citizens & Elders Support HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/srcare_template.jpg)](https://1.envato.market/senior-care-html)
 [![Wish - Charity, Fundraising & Non-Profits Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/wish.jpg)](https://1.envato.market/wish-html)
