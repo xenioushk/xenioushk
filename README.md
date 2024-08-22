@@ -105,8 +105,8 @@ I am a highly experienced web developer with a solid background in creating <str
 
 ## jQuery Plugins
 
-[![BWL Searchable Accordion jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bsa.jpg)](https://1.envato.market/bsa-jq)
-[![BWL Sticky Animated News Ticker jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bnt.jpg)](https://1.envato.market/bnt-jq)
+[![BWL Searchable Accordion jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bsa.png)](https://1.envato.market/bsa-jq)
+[![BWL Sticky Animated News Ticker jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bnt.png)](https://1.envato.market/bnt-jq)
 
 ## WordPress.org Contributions
 
