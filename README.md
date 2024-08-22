@@ -145,6 +145,11 @@ I am a highly experienced web developer with a solid background in creating **Wo
 [![BWL Searchable Accordion jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bsa.png)](https://1.envato.market/bsa-jq)
 [![BWL Sticky Animated News Ticker jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bnt.png)](https://1.envato.market/bnt-jq)
 
+## React.js Projects
+
+- [Pocket Money React App](https://github.com/xenioushk/pocket-money-app)
+- [Photo Browser React App](https://github.com/xenioushk/bwl-photo-browser-app)
+
 ## WordPress.org Contributions
 
 - [Ultimate Searchable Accordion Lite – WPBakery Page Builder Addon](https://wordpress.org/plugins/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon)
