@@ -56,16 +56,47 @@ I am a highly experienced web developer with a solid background in creating **Wo
 
 #### BWL Advanced FAQ Manager Addons
 
-[![Ajaxified FAQ Search - Advanced FAQ Addon](https://xenioushk.github.io/bwl-static-assets/thumbs/addon/afs.png)](https://bluewindlab.net/product/ajaxified-faq-search-bwl-advanced-faq-addon)
-[![FAQ Tab For WooCommerce - Advanced FAQ Addon](https://xenioushk.github.io/bwl-static-assets/thumbs/addon/ftfwc.png)](https://bluewindlab.net/product/faq-tab-for-woocommerce-bwl-advanced-faq-manager-addon)
+- [Ajaxified FAQ Search - Advanced FAQ Addon](https://bluewindlab.net/product/ajaxified-faq-search-bwl-advanced-faq-addon)
+- [FAQ Tab For WooCommerce - Advanced FAQ Addon](https://bluewindlab.net/product/faq-tab-for-woocommerce-bwl-advanced-faq-manager-addon)
 
 ### [BWL Pro Voting Manager](https://1.envato.market/bpvm-wp)
 
 [![BWL Pro Voting Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bpvm.jpg)](https://1.envato.market/bpvm-wp)
 
+#### BWL Pro Voting Manager Addons
+
+- [Recaptcha Addon For BWL Pro Voting Manager](https://1.envato.market/recaptcha-addon)
+- [Undo My Vote Addon](https://1.envato.market/umv-addon)
+- [User Vote Tracker](https://bluewindlab.net/product/user-vote-tracker-addon/)
+- [WooCommerce Product Voting Addon](https://bluewindlab.net/product/woocommerce-product-voting-addon/)
+
 ### [BWL Knowledge Base Manager](https://1.envato.market/bkbm-wp)
 
 [![BWL Knowledge Base Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bkbm.jpg)](https://1.envato.market/bkbm-wp)
+
+#### BWL Knowledge Base Manager Addons
+
+- [Templify KB (Template Manager)](https://bluewindlab.net/portfolio/templify-kb-bwl-knowledge-base-manager-addon/)
+- [KB Addon For WP Bakery Page Builder](https://bluewindlab.net/portfolio/kb-for-wp-bakery-page-builder-bwl-knowledge-base-manager-addon/)
+- [KB Display As Blog Post](https://bluewindlab.net/portfolio/kb-display-as-blog-post-addon/)
+- [KB Tab For WooCommerce](https://bluewindlab.net/portfolio/kb-tab-for-woocommerce-bwl-knowledge-base-manager-addon/)
+- [Restrict KB Access by User Role](https://bluewindlab.net/portfolio/restrict-kb-access-by-user-role-bwl-knowledge-base-manager-addon/)
+
+### [WooCommerce Product Faq Manager](https://1.envato.market/wpfm-wp)
+
+[![WooCommerce Product Faq Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/wpfm.jpg)](https://1.envato.market/wpfm-wp)
+
+#### WooCommerce Product Faq Manager Addons
+
+- [FAQ Collector](https://bluewindlab.net/product/faq-collector-woocommerce-product-faq-manager-addon/)
+
+### [Attachment Tab For WooCommerce](https://1.envato.market/atfc-wp)
+
+[![Attachment Tab For WooCommerce](https://xenioushk.github.io/bwl-static-assets/previews/plugins/atfc.jpg)](https://1.envato.market/atfc-wp)
+
+### [Ultimate Searchable Accordion - WPBakery Addon](https://1.envato.market/usva-wp)
+
+[![Ultimate Searchable Accordion - WPBakery Addon](https://xenioushk.github.io/bwl-static-assets/previews/plugins/usva.jpg)](https://1.envato.market/usva-wp)
 
 ## HTML5 Templates
 
