@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | WordPress | PHP | React | JavaScipt
 
-I am a highly experienced web developer with a solid background in creating <strong>WordPress themes and plugins</strong>, supported by more than ten years of professional practice.
+I am a highly experienced web developer with a solid background in creating **WordPress themes and plugins**, supported by more than ten years of professional practice.
 
 <p>My accomplishments include skillfully guiding teams, thoroughly analyzing customer requirements, and consistently welcoming new opportunities. Throughout my career journey, I have refined my knowledge of WordPress, remaining at the cutting edge of the dynamic industry landscape while consistently adopting the latest trends and technologies.</p>
 
@@ -53,6 +53,11 @@ I am a highly experienced web developer with a solid background in creating <str
 ### [BWL Advanced FAQ Manager](https://1.envato.market/baf-wp)
 
 [![BWL Advanced FAQ Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/baf.jpg)](https://1.envato.market/baf-wp)
+
+#### BWL Advanced FAQ Manager Addons
+
+[![Ajaxified FAQ Search - Advanced FAQ Addon](https://xenioushk.github.io/bwl-static-assets/thumbs/addon/afs.png)](https://bluewindlab.net/product/ajaxified-faq-search-bwl-advanced-faq-addon)
+[![FAQ Tab For WooCommerce - Advanced FAQ Addon](https://xenioushk.github.io/bwl-static-assets/thumbs/addon/ftfwc.png)](https://bluewindlab.net/product/faq-tab-for-woocommerce-bwl-advanced-faq-manager-addon)
 
 ### [BWL Pro Voting Manager](https://1.envato.market/bpvm-wp)
 
@@ -143,11 +148,11 @@ I am a highly experienced web developer with a solid background in creating <str
 - 💬 Ask me about WordPress, PHP, Web development
 - 📫 How to reach me: https://bluewindlab.net/contact/
 
-<h4>Connect With Me</h4>
+### Connect With Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xenioushk) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hkhan-cse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hkhan.cse) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bluewindlab/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bluewindlab) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/bluewindlab) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bluewindlab.net)
 
-<h4>A Few Stats</h4>
+### Fun Facts
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xenioushk&show_icons=true&count_private=true)
 
