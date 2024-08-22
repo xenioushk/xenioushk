@@ -102,6 +102,7 @@ I am a highly experienced web developer with a solid background in creating <str
 [![SmartFix - Computer Repair Center Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/smart_fix.jpg)](https://1.envato.market/smart-fix-html)
 [![Senior Care - Senior Citizens & Elders Support HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/srcare_template.jpg)](https://1.envato.market/senior-care-html)
 [![Wish - Charity, Fundraising & Non-Profits Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/wish.jpg)](https://1.envato.market/wish-html)
+[![Awareness - Environmental Protection & Non-Profit Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/awareness.jpg)](https://1.envato.market/awareness-html5)
 
 ## jQuery Plugins
 
