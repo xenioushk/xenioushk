@@ -110,9 +110,9 @@ I am a highly experienced web developer with a solid background in creating <str
 
 ## WordPress.org Contributions
 
-[![Ultimate Searchable Accordion Lite – WPBakery Page Builder Addon](https://ps.w.org/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon/assets/icon-128x128.jpg)](https://wordpress.org/plugins/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon)
-[![BWL Advanced FAQ Manager Lite](https://ps.w.org/bwl-advanced-faq-manager-lite/assets/icon-128x128.jpg)](https://wordpress.org/plugins/bwl-advanced-faq-manager-lite/)
-[![BWL Poll Manager Lite](https://ps.w.org/bwl-poll-manager-lite/assets/icon-128x128.jpg)](https://wordpress.org/plugins/bwl-poll-manager-lite/)
+- [Ultimate Searchable Accordion Lite – WPBakery Page Builder Addon](https://wordpress.org/plugins/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon)
+- [BWL Advanced FAQ Manager Lite](https://wordpress.org/plugins/bwl-advanced-faq-manager-lite/)
+- [BWL Poll Manager Lite](https://wordpress.org/plugins/bwl-poll-manager-lite/)
 
 ## Languages and Technologies
 
