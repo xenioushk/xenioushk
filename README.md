@@ -103,11 +103,22 @@ I am a highly experienced web developer with a solid background in creating <str
 [![Senior Care - Senior Citizens & Elders Support HTML5 Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/srcare_template.jpg)](https://1.envato.market/senior-care-html)
 [![Wish - Charity, Fundraising & Non-Profits Template](https://xenioushk.github.io/bwl-static-assets/thumbs/templates/wish.jpg)](https://1.envato.market/wish-html)
 
+## jQuery Plugins
+
+[![BWL Searchable Accordion jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bsa.jpg)](https://1.envato.market/bsa-jq)
+[![BWL Sticky Animated News Ticker jQuery Plugin](https://xenioushk.github.io/bwl-static-assets/thumbs/jquery-plugin/bnt.jpg)](https://1.envato.market/bnt-jq)
+
+## WordPress.org Contributions
+
+[![Ultimate Searchable Accordion Lite – WPBakery Page Builder Addon](https://ps.w.org/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon/assets/icon-128x128.jpg)](https://wordpress.org/plugins/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon)
+[![BWL Advanced FAQ Manager Lite](https://ps.w.org/bwl-advanced-faq-manager-lite/assets/icon-128x128.jpg)](https://wordpress.org/plugins/bwl-advanced-faq-manager-lite/)
+[![BWL Poll Manager Lite](https://ps.w.org/bwl-poll-manager-lite/assets/icon-128x128.jpg)](https://wordpress.org/plugins/bwl-poll-manager-lite/)
+
 ## Languages and Technologies
 
 <ul>
 <li>HTML5, CSS3, SASS, LESS</li>
-<li>JavaScript, TypeScript, React, Node.js</li>
+<li>JavaScript, TypeScript, React, Node.js, jQuery, jQueryUI</li>
 <li>PHP8, WordPress, ACF, Gutenberg, WP-CLI, Composer</li>
 <li>Elementor, WP Bakery Page Builder</li>
 <li>Bootstrap, TailWind</li>
@@ -115,7 +126,7 @@ I am a highly experienced web developer with a solid background in creating <str
 <li>GIT, GitLab CI/CD, Docker, Unit/E2E Testing</li>
 </ul>
 
-<h4>Portfolios</h4>
+### Portfolios
 
 - https://codecanyon.net/user/xenioushk
 - https://themeforest.net/user/xenioushk
@@ -123,7 +134,7 @@ I am a highly experienced web developer with a solid background in creating <str
 - https://github.com/xenioushk/
 - https://www.upwork.com/freelancers/~01dadecdda60187e89
 
-<h4>Current Status</h4>
+### What I am doing now?
 
 - 🔭 I’m currently working on Elementor Block Development
 - 🌱 I’m currently learning Next.js
