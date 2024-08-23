@@ -98,6 +98,14 @@ I am a highly experienced web developer with a solid background in creating **Wo
 
 [![Ultimate Searchable Accordion - WPBakery Addon](https://xenioushk.github.io/bwl-static-assets/previews/plugins/usva.jpg)](https://1.envato.market/usva-wp)
 
+### [BWL Post To Breaking News Manager](https://1.envato.market/bnm-wp)
+
+[![BWL Post To Breaking News Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bnm.jpg)](https://1.envato.market/bnm-wp)
+
+### [BWL Poll Manager](https://1.envato.market/bpm-wp)
+
+[![BWL Poll Manager](https://xenioushk.github.io/bwl-static-assets/previews/plugins/bpm.jpg)](https://1.envato.market/bpm-wp)
+
 ## HTML5 Templates
 
 <!-- First Row-->
